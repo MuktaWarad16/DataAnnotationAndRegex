@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DataAnnotation_RegularExpression_PatternMatching/1.0.0": {
+        "runtime": {
+          "DataAnnotation_RegularExpression_PatternMatching.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataAnnotation_RegularExpression_PatternMatching/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
